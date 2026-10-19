@@ -1,0 +1,5 @@
+rootProject.name = 'scalability-performance'
+
+include 'scaling', 'load-balancing', 'consistent-hashing', 'read-replicas',
+        'autoscaling', 'capacity-planning', 'napkin-math', 'latency',
+        'connection-pooling', 'async-processing'
