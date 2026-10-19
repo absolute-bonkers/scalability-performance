@@ -10,5 +10,6 @@ Latency depends on hardware, topology, queueing, and tail percentiles. Measure r
 
 ## Primary references checked
 
-- [Jeff Dean — Designs, Lessons and Advice](https://research.google/pubs/designs-lessons-and-advice-from-building-large-distributed-systems/) — Source for widely used approximate latency orders; the guide explicitly labels values illustrative.
 - [Google SRE — Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/) — Explains latency distributions and percentiles.
+
+The constants in the example are deliberately rough teaching values, not measurements asserted by the cited SRE chapter. Hardware, geography, queueing, and workload materially change observed latency.

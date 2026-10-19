@@ -10,5 +10,4 @@ Uncertainty compounds; use ranges and validate with load tests. Means hide tails
 
 ## Primary references checked
 
-- [Jeff Dean — Designs, Lessons and Advice](https://research.google/pubs/designs-lessons-and-advice-from-building-large-distributed-systems/) — Provides illustrative latency orders of magnitude for rough estimates.
 - [Google SRE — Service Best Practices](https://sre.google/sre-book/service-best-practices/) — Discusses capacity estimates and the need to validate assumptions.
